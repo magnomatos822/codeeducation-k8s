@@ -2,11 +2,11 @@
 
 ## Servidor Web Nginx
 
-[Link](/servidor-web-nginx)
+[Link](/servidor-web-ngnix)
 
 ## Configuração MySql
 
-[Link](/configuracao-mysql)
+[Link](/configuracao_mysql)
 
 ## Desafio Golang
 
